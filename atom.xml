@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liu-zb.github.io/lzb.github.io/.</id>
     <title>爱情小屋</title>
-    <updated>2020-11-27T11:39:21.513Z</updated>
+    <updated>2020-11-27T11:46:37.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liu-zb.github.io/lzb.github.io/."/>
     <link rel="self" href="https://liu-zb.github.io/lzb.github.io/./atom.xml"/>
@@ -11,36 +11,12 @@
     <icon>https://liu-zb.github.io/lzb.github.io/./favicon.ico</icon>
     <rights>All rights reserved 2020, 爱情小屋</rights>
     <entry>
-        <title type="html"><![CDATA[                                       我们的点点滴滴]]></title>
-        <id>https://liu-zb.github.io/lzb.github.io/./post/wo-men-de-dian-dian-di-di/</id>
-        <link href="https://liu-zb.github.io/lzb.github.io/./post/wo-men-de-dian-dian-di-di/">
+        <title type="html"><![CDATA[                                         首页]]></title>
+        <id>https://liu-zb.github.io/lzb.github.io/./post/shou-ye/</id>
+        <link href="https://liu-zb.github.io/lzb.github.io/./post/shou-ye/">
         </link>
-        <updated>2020-11-27T11:21:02.000Z</updated>
-        <content type="html"><![CDATA[<p>2017年12月31日，我们相恋了♥<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476161128.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606477130758.jpg" alt="" loading="lazy"><br>
-2018年4月5日，我们第一次看电影，也是第一次牵手♥<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476287083.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606477139400.jpg" alt="" loading="lazy"><br>
-2018年8月25日，我们第一次拥抱♥<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476482456.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606477152891.jpg" alt="" loading="lazy"><br>
-2019年4月27日，我们第一次接吻♥<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476564792.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476582696.jpg" alt="" loading="lazy"><br>
-2019年暑假，我们一起出去打工，也是第一次分开去不同的城市上大学♥<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476645640.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476728896.jpg" alt="" loading="lazy"><br>
-2019年11月，我去潍坊去见我的小可爱<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476904240.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476914531.jpg" alt="" loading="lazy"><br>
-2020年七月，我开学了，我们最后一次见面<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476921791.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606476929939.jpg" alt="" loading="lazy"><br>
-2020年11月，距离我去看我的小可爱已经一年了，我创作此网站，名为爱情小屋，以此纪念我和小可爱1062天爱情<br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606477010186.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606477021890.jpg" alt="" loading="lazy"><br>
-<img src="https://liu-zb.github.io/lzb.github.io/./post-images/1606477034058.jpg" alt="" loading="lazy"></p>
+        <updated>2020-11-27T11:42:26.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>眼波如水，映出窗外繁星点点。迷离的星光，在淡淡的云烟中隐约闪现。空气中到外弥漫着你的气息。你是我今生无法忘记的梦，无法诠释的情缘。</code></pre>
 ]]></content>
     </entry>
 </feed>
